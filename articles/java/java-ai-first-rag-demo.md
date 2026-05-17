@@ -109,7 +109,9 @@ Docker Compose version v2.19.1
 - 如果有阿里云账号，直接登录
 - 如果没有，点击"免费注册"，使用手机号注册
 
-![注册页面](../images/dashscope-register.png)
+> 📷 **截图位置**: DashScope 注册页面
+> 
+> **说明**: 显示手机号输入框、验证码按钮、密码设置等元素
 
 ---
 
@@ -141,6 +143,8 @@ Docker Compose version v2.19.1
 
 ![开通服务](../images/dashscope-activate.png)
 
+> 💡 **提示**: 如果是首次使用，会自动弹出开通提示窗口
+
 ---
 
 **步骤 3：查看免费额度**
@@ -168,6 +172,8 @@ Docker Compose version v2.19.1
 3. 点击"确定"
 
 ![创建 API Key](../images/dashscope-create-key.png)
+
+> ⚠️ **注意**: API Key 名称建议有意义，如 `rag-demo-dev`、`rag-demo-test`
 
 ---
 
@@ -251,6 +257,10 @@ curl -X POST https://dashscope.aliyuncs.com/api/v1/services/aigc/text-generation
      ```
 
 3. 点击"Send"，查看响应
+
+> 📷 **截图位置**: Postman 测试大模型 API 的完整界面
+> 
+> **包含内容**: URL、Headers、Body 配置以及响应结果
 
 ![Postman 测试](../images/postman-test.png)
 
@@ -497,6 +507,10 @@ docker run -p 8000:3000 -e MILVUS_URL=host.docker.internal:19530 zilliz/attu:v2.
 
 访问：[http://localhost:8000](http://localhost:8000)
 
+> 📷 **截图位置**: Attu Web 界面主屏幕
+> 
+> **说明**: 显示 Collection 列表、连接状态等信息
+
 ![Attu 界面](../images/attu-ui.png)
 
 **功能：**
@@ -517,6 +531,10 @@ docker run -p 8000:3000 -e MILVUS_URL=host.docker.internal:19530 zilliz/attu:v2.
 
 **步骤 2：配置项目**
 
+> 📷 **截图位置**: Spring Initializr 配置页面
+> 
+> **URL**: https://start.spring.io/
+
 - Project: Maven
 - Language: Java
 - Spring Boot: 3.2.x
@@ -527,6 +545,8 @@ docker run -p 8000:3000 -e MILVUS_URL=host.docker.internal:19530 zilliz/attu:v2.
 - Package name: com.example.ragdemo
 - Packaging: Jar
 - Java: 17
+
+![Spring Initializr](../images/spring-initializr.png)
 
 **步骤 3：添加依赖**
 
@@ -1438,6 +1458,10 @@ Spring Boot 是由 Pivotal 团队提供的全新框架，
 3. Body → form-data:
    - Key: `file` (类型选择 File)
    - Value: 选择你的 PDF 文件
+
+> 📷 **截图位置**: Postman 上传文档接口测试
+> 
+> **显示内容**: 请求配置和成功响应（包含 segments 数量）
 
 ![上传文档](../images/upload-document.png)
 
