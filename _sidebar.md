@@ -37,3 +37,66 @@
 
 - 生活随笔
   - [第一篇随笔](articles/life/first-post.md)
+
+- 📈 股票投资从零到精通
+  - **新手必读**
+    - [快速入门：按时间线分步学习](articles/stock/quick-start-guide.md)
+  
+  - **学习路线总览**
+    - [完整学习路线图](articles/stock/stock-learning-roadmap.md)
+  
+  - **第一阶段：股市底层认知与市场规则（10天）**
+    - [股市基础概念全解析](articles/stock/stock-basics.md)
+    - [A股市场板块划分详解](articles/stock/stock-market-structure.md)
+    - [交易规则硬性要求](articles/stock/stock-trading-rules.md)
+    - [风险控制底线思维](articles/stock/stock-risk-management.md)
+  
+  - **第二阶段：盘面基础识图能力（20天）**
+    - [K线系统完全指南](articles/stock/k-line-system.md)
+    - [均线系统与趋势判断](articles/stock/moving-average.md)
+    - [量价关系实战应用](articles/stock/volume-price.md)
+    - [盘口语言深度解析](articles/stock/order-book.md)
+  
+  - **第三阶段：主流技术指标系统（30天）**
+    - [MACD趋势指标详解](articles/stock/macd-indicator.md)
+    - [KDJ震荡指标实战](articles/stock/kdj-indicator.md)
+    - [BOLL布林带应用](articles/stock/bollinger-bands.md)
+    - [RSI相对强弱指标](articles/stock/rsi-indicator.md)
+    - [筹码分布图分析](articles/stock/chip-distribution.md)
+  
+  - **第四阶段：基本面价值选股（35天）**
+    - [核心估值指标体系](articles/stock/valuation-metrics.md)
+    - [财务报表基础解读](articles/stock/financial-statements.md)
+    - [行业赛道分析方法](articles/stock/industry-analysis.md)
+    - [基本面避雷清单](articles/stock/fundamental-red-flags.md)
+  
+  - **第五阶段：题材热点与短线逻辑（25天）**
+    - [市场情绪判断方法](articles/stock/market-sentiment.md)
+    - [题材炒作完整周期](articles/stock/theme-cycle.md)
+    - [龙头战法基础教程](articles/stock/dragon-leader.md)
+    - [短线节奏把控技巧](articles/stock/short-term-rhythm.md)
+  
+  - **第六阶段：仓位管理与交易纪律（20天）**
+    - [完整仓位管理体系](articles/stock/position-management.md)
+    - [严格止盈体系构建](articles/stock/take-profit.md)
+    - [铁律止损体系详解](articles/stock/stop-loss.md)
+    - [交易严禁陋习清单](articles/stock/trading-discipline.md)
+  
+  - **第七阶段：复盘体系建立（15天）**
+    - [每日复盘标准流程](articles/stock/daily-review.md)
+    - [周度月度深度复盘](articles/stock/weekly-monthly-review.md)
+    - [交易数据库建设](articles/stock/trading-database.md)
+  
+  - **第八阶段：模拟盘实战磨合（10天）**
+    - [模拟盘完整训练方案](articles/stock/simulation-training.md)
+  
+  - **第九阶段：实盘循序渐进进阶（20天）**
+    - [小仓位起步策略](articles/stock/small-position-start.md)
+    - [逐步加仓方法论](articles/stock/gradual-position-increase.md)
+    - [实盘心态修炼指南](articles/stock/real-trading-mindset.md)
+    - [从稳定到卓越路径](articles/stock/stable-to-excellent.md)
+  
+  - **第十阶段：高阶进阶（15天）**
+    - [多账户资金管理策略](articles/stock/multi-account-management.md)
+    - [量化交易入门指南](articles/stock/quant-trading-intro.md)
+    - [机构思维与散户差异](articles/stock/institutional-vs-retail.md)
