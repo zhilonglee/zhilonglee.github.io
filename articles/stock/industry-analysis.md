@@ -695,7 +695,7 @@ To B代工对客户无定价权
 
 ## 📚 系列导航
 
-- **上一篇**：[筹码分布图分析](chip-distribution.md)（第三阶段最后一篇）
+- **上一篇**：[财务报表基础解读](financial-statements.md)
 - **下一篇**：[基本面避雷清单](fundamental-red-flags.md)
 
 ---
