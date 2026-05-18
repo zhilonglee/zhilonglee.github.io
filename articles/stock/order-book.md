@@ -738,9 +738,9 @@
 ### 下一步学习
 
 掌握盘口语言后，第二阶段完成！接下来进入第三阶段：
-1. 📊 [MACD趋势指标详解](macd-indicator.md)
-2. 🎯 [KDJ震荡指标实战](kdj-indicator.md)
-3. 📈 [BOLL布林带应用](bollinger-bands.md)
+1. 📊 [MACD趋势指标详解](/articles/stock/macd-indicator.md)
+2. 🎯 [KDJ震荡指标实战](/articles/stock/kdj-indicator.md)
+3. 📈 [BOLL布林带应用](/articles/stock/bollinger-bands.md)
 
 ### 实践建议
 
@@ -754,8 +754,8 @@
 
 ## 📚 系列导航
 
-- **上一篇**：[量价关系实战应用](volume-price.md)
-- **下一篇**：[MACD趋势指标详解](macd-indicator.md)（第三阶段第一篇）
+- **上一篇**：[量价关系实战应用](/articles/stock/volume-price.md)
+- **下一篇**：[MACD趋势指标详解](/articles/stock/macd-indicator.md)（第三阶段第一篇）
 
 ---
 

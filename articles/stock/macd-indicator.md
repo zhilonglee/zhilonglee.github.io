@@ -727,10 +727,10 @@ MACD死叉 + KDJ高位死叉
 ## 九、下一步学习
 
 掌握MACD后，继续学习其他技术指标：
-1. 🎯 [KDJ震荡指标实战](kdj-indicator.md)
-2. 📈 [BOLL布林带应用](bollinger-bands.md)
-3. 💪 [RSI相对强弱指标](rsi-indicator.md)
-4. 📊 [筹码分布图分析](chip-distribution.md)
+1. 🎯 [KDJ震荡指标实战](/articles/stock/kdj-indicator.md)
+2. 📈 [BOLL布林带应用](/articles/stock/bollinger-bands.md)
+3. 💪 [RSI相对强弱指标](/articles/stock/rsi-indicator.md)
+4. 📊 [筹码分布图分析](/articles/stock/chip-distribution.md)
 
 ---
 
@@ -746,8 +746,8 @@ MACD死叉 + KDJ高位死叉
 
 ## 📚 系列导航
 
-- **上一篇**：[盘口语言深度解析](order-book.md)（第二阶段最后一篇）
-- **下一篇**：[KDJ震荡指标实战](kdj-indicator.md)
+- **上一篇**：[盘口语言深度解析](/articles/stock/order-book.md)（第二阶段最后一篇）
+- **下一篇**：[KDJ震荡指标实战](/articles/stock/kdj-indicator.md)
 
 ---
 

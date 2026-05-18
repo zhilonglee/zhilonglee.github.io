@@ -589,8 +589,8 @@
 ## 九、下一步学习
 
 掌握布林带后，继续学习：
-1. 💪 [RSI相对强弱指标](rsi-indicator.md)
-2. 📊 [筹码分布图分析](chip-distribution.md)
+1. 💪 [RSI相对强弱指标](/articles/stock/rsi-indicator.md)
+2. 📊 [筹码分布图分析](/articles/stock/chip-distribution.md)
 
 ---
 
@@ -606,8 +606,8 @@
 
 ## 📚 系列导航
 
-- **上一篇**：[KDJ震荡指标实战](kdj-indicator.md)
-- **下一篇**：[RSI相对强弱指标](rsi-indicator.md)
+- **上一篇**：[KDJ震荡指标实战](/articles/stock/kdj-indicator.md)
+- **下一篇**：[RSI相对强弱指标](/articles/stock/rsi-indicator.md)
 
 ---
 

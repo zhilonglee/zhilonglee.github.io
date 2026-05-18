@@ -677,7 +677,7 @@ To B代工对客户无定价权
 ## 八、下一步学习
 
 掌握行业分析后，继续学习：
-1. ⚠️ [基本面避雷清单](fundamental-red-flags.md)
+1. ⚠️ [基本面避雷清单](/articles/stock/fundamental-red-flags.md)
 
 完成第四阶段！
 
@@ -695,8 +695,8 @@ To B代工对客户无定价权
 
 ## 📚 系列导航
 
-- **上一篇**：[财务报表基础解读](financial-statements.md)
-- **下一篇**：[基本面避雷清单](fundamental-red-flags.md)
+- **上一篇**：[财务报表基础解读](/articles/stock/financial-statements.md)
+- **下一篇**：[基本面避雷清单](/articles/stock/fundamental-red-flags.md)
 
 ---
 

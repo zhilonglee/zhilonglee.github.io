@@ -673,8 +673,8 @@
 ## 八、下一步学习
 
 掌握财报后，继续学习：
-1. 🏭 [行业赛道分析方法](industry-analysis.md)
-2. ⚠️ [基本面避雷清单](fundamental-red-flags.md)
+1. 🏭 [行业赛道分析方法](/articles/stock/industry-analysis.md)
+2. ⚠️ [基本面避雷清单](/articles/stock/fundamental-red-flags.md)
 
 ---
 
@@ -694,7 +694,7 @@
 
 ## 📚 系列导航
 
-- **上一篇**：[核心估值指标体系](valuation-metrics.md)
-- **下一篇**：[行业赛道分析方法](industry-analysis.md)
+- **上一篇**：[核心估值指标体系](/articles/stock/valuation-metrics.md)
+- **下一篇**：[行业赛道分析方法](/articles/stock/industry-analysis.md)
 
 ---

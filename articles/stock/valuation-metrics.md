@@ -804,9 +804,9 @@ PEG = 25/20 = 1.25
 ## 九、下一步学习
 
 掌握估值指标后，继续学习：
-1. 📊 [财务报表基础解读](financial-statements.md)
-2. 🏭 [行业赛道分析方法](industry-analysis.md)
-3. ⚠️ [基本面避雷清单](fundamental-red-flags.md)
+1. 📊 [财务报表基础解读](/articles/stock/financial-statements.md)
+2. 🏭 [行业赛道分析方法](/articles/stock/industry-analysis.md)
+3. ⚠️ [基本面避雷清单](/articles/stock/fundamental-red-flags.md)
 
 ---
 
@@ -826,7 +826,7 @@ PEG = 25/20 = 1.25
 
 ## 📚 系列导航
 
-- **上一篇**：[筹码分布图分析](chip-distribution.md)（第三阶段最后一篇）
-- **下一篇**：[财务报表基础解读](financial-statements.md)
+- **上一篇**：[筹码分布图分析](/articles/stock/chip-distribution.md)（第三阶段最后一篇）
+- **下一篇**：[财务报表基础解读](/articles/stock/financial-statements.md)
 
 ---

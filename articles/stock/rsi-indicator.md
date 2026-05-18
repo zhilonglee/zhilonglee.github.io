@@ -587,7 +587,7 @@ RSI，看强弱
 ## 九、下一步学习
 
 掌握RSI后，继续学习：
-1. 📊 [筹码分布图分析](chip-distribution.md)
+1. 📊 [筹码分布图分析](/articles/stock/chip-distribution.md)
 
 完成第三阶段所有技术指标！
 
@@ -605,8 +605,8 @@ RSI，看强弱
 
 ## 📚 系列导航
 
-- **上一篇**：[BOLL布林带应用](bollinger-bands.md)
-- **下一篇**：[筹码分布图分析](chip-distribution.md)
+- **上一篇**：[BOLL布林带应用](/articles/stock/bollinger-bands.md)
+- **下一篇**：[筹码分布图分析](/articles/stock/chip-distribution.md)
 
 ---
 

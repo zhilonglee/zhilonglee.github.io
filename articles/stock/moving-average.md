@@ -720,9 +720,9 @@
 ### 下一步学习
 
 掌握均线后，继续学习：
-1. 💹 [量价关系实战应用](volume-price.md)
-2. 🔍 [盘口语言深度解析](order-book.md)
-3. 📊 [MACD趋势指标详解](macd-indicator.md)（第三阶段）
+1. 💹 [量价关系实战应用](/articles/stock/volume-price.md)
+2. 🔍 [盘口语言深度解析](/articles/stock/order-book.md)
+3. 📊 [MACD趋势指标详解](/articles/stock/macd-indicator.md)（第三阶段）
 
 ### 实践建议
 
@@ -754,16 +754,16 @@ A: 两者互补。均线看趋势方向，MACD看动能强弱。建议：①先�
 ---
 
 ## 📚 延伸阅读
-- [量价关系实战应用](volume-price.md) - 理解成交量与价格的关系
-- [K线系统完全指南](k-line-system.md) - 掌握技术分析基础
-- [MACD指标使用教程](macd-indicator.md) - 理解趋势指标的核心用法
+- [量价关系实战应用](/articles/stock/volume-price.md) - 理解成交量与价格的关系
+- [K线系统完全指南](/articles/stock/k-line-system.md) - 掌握技术分析基础
+- [MACD指标使用教程](/articles/stock/macd-indicator.md) - 理解趋势指标的核心用法
 
 ---
 
 ## 📚 系列导航
 
-- **上一篇**：[K线系统完全指南](k-line-system.md)
-- **下一篇**：[量价关系实战应用](volume-price.md)
+- **上一篇**：[K线系统完全指南](/articles/stock/k-line-system.md)
+- **下一篇**：[量价关系实战应用](/articles/stock/volume-price.md)
 
 ---
 

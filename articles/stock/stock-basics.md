@@ -431,16 +431,16 @@ A:
 ---
 
 ## 📚 延伸阅读
-- [A股市场板块划分详解](stock-market-structure.md) - 了解沪市、深市、创业板的区别
-- [交易规则硬性要求](stock-trading-rules.md) - 掌握T+1、涨跌幅等交易规则
-- [风险控制底线思维](stock-risk-management.md) - 学会保护本金，控制风险
+- [A股市场板块划分详解](/articles/stock/stock-market-structure.md) - 了解沪市、深市、创业板的区别
+- [交易规则硬性要求](/articles/stock/stock-trading-rules.md) - 掌握T+1、涨跌幅等交易规则
+- [风险控制底线思维](/articles/stock/stock-risk-management.md) - 学会保护本金，控制风险
 
 ---
 
 ## 📚 系列导航
 
 - **上一篇**：无（本系列第一篇）
-- **下一篇**：[A股市场板块划分详解](stock-market-structure.md)
+- **下一篇**：[A股市场板块划分详解](/articles/stock/stock-market-structure.md)
 
 ---
 

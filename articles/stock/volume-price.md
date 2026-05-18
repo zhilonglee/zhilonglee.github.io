@@ -758,8 +758,8 @@
 
 ## 📚 系列导航
 
-- **上一篇**：[均线系统与趋势判断](moving-average.md)
-- **下一篇**：[盘口语言深度解析](order-book.md)
+- **上一篇**：[均线系统与趋势判断](/articles/stock/moving-average.md)
+- **下一篇**：[盘口语言深度解析](/articles/stock/order-book.md)
 
 ---
 

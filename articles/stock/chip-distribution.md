@@ -558,11 +558,11 @@
 🎉 **恭喜！你已经完成了第三阶段所有技术指标的学习！**
 
 ### 已完成的5篇技术指标文章：
-1. ✅ [MACD趋势指标详解](macd-indicator.md)
-2. ✅ [KDJ震荡指标实战](kdj-indicator.md)
-3. ✅ [BOLL布林带应用](bollinger-bands.md)
-4. ✅ [RSI相对强弱指标](rsi-indicator.md)
-5. ✅ [筹码分布图分析](chip-distribution.md)
+1. ✅ [MACD趋势指标详解](/articles/stock/macd-indicator.md)
+2. ✅ [KDJ震荡指标实战](/articles/stock/kdj-indicator.md)
+3. ✅ [BOLL布林带应用](/articles/stock/bollinger-bands.md)
+4. ✅ [RSI相对强弱指标](/articles/stock/rsi-indicator.md)
+5. ✅ [筹码分布图分析](/articles/stock/chip-distribution.md)
 
 ### 掌握的技能：
 - ✅ MACD：趋势判断、背离识别
@@ -599,8 +599,8 @@
 
 ## 📚 系列导航
 
-- **上一篇**：[RSI相对强弱指标](rsi-indicator.md)
-- **下一篇**：[行业分析方法与赛道选择](industry-analysis.md)（第四阶段第一篇）
+- **上一篇**：[RSI相对强弱指标](/articles/stock/rsi-indicator.md)
+- **下一篇**：[行业分析方法与赛道选择](/articles/stock/industry-analysis.md)（第四阶段第一篇）
 
 ---
 

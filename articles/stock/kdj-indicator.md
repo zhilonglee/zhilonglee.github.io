@@ -615,9 +615,9 @@ J值负数有机会
 ## 八、下一步学习
 
 掌握KDJ后，继续学习：
-1. 📈 [BOLL布林带应用](bollinger-bands.md)
-2. 💪 [RSI相对强弱指标](rsi-indicator.md)
-3. 📊 [筹码分布图分析](chip-distribution.md)
+1. 📈 [BOLL布林带应用](/articles/stock/bollinger-bands.md)
+2. 💪 [RSI相对强弱指标](/articles/stock/rsi-indicator.md)
+3. 📊 [筹码分布图分析](/articles/stock/chip-distribution.md)
 
 ---
 
@@ -633,8 +633,8 @@ J值负数有机会
 
 ## 📚 系列导航
 
-- **上一篇**：[MACD趋势指标详解](macd-indicator.md)
-- **下一篇**：[BOLL布林带应用](bollinger-bands.md)
+- **上一篇**：[MACD趋势指标详解](/articles/stock/macd-indicator.md)
+- **下一篇**：[BOLL布林带应用](/articles/stock/bollinger-bands.md)
 
 ---
 
