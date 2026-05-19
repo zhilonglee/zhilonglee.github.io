@@ -102,5 +102,6 @@
     - [机构思维与散户差异](articles/stock/institutional-vs-retail.md)
 
 - 📊 股票盘前预测
-  - [2026年5月18日盘前预测](articles/stock-prediction/20260518-prediction.md)
+  - [2026年5月20日盘前预测](articles/stock-prediction/20260520-prediction.md)
   - [2026年5月19日盘前预测](articles/stock-prediction/20260519-prediction.md)
+  - [2026年5月18日盘前预测](articles/stock-prediction/20260518-prediction.md)
